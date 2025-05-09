@@ -1,0 +1,2 @@
+[redirect]
+peary-logo https://raw.githubusercontent.com/JarzaCode/image-host/main/logo-peary-white-outline.png
